@@ -6,7 +6,7 @@ import pyperclip
 from urllib.parse import quote
 
 #Coloque o número que você vai usar para enviar as mensagen
-NUMERO_ORIGEM = "+556195707957" 
+NUMERO_ORIGEM = "" 
 
 #Coloque os números do clientes que você quer enviar as mensagens, um por linha, no formato:
 # Coloque do jeito que está na tabela
@@ -31,7 +31,7 @@ def executar_automacao():
     total = len(destinatarios)
     
     print(f"==========================================")
-    print(f"CANAL MAGE SISTEMAS: {NUMERO_ORIGEM}")
+    print(f"CANAL DA MENSAGEM: {NUMERO_ORIGEM}")
     print(f"MODO: Aba Única (Economia de Memória)")
     print(f"==========================================\n")
 

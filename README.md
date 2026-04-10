@@ -1,6 +1,6 @@
-# 🚀 WhatsApp Mass Dispatcher - Mage Sistemas (v1.0)
+# 🚀 WhatsApp Mass Dispatcher - (v1.0)
 
-Este script Python foi desenvolvido para automatizar o envio de mensagens personalizadas via WhatsApp Web, utilizando tecnicas de **RPA (Robotic Process Automation)**. O foco principal é a eficiência operacional e a economia de recursos do sistema através da lógica de aba única.
+Fiz esse script em Python para automatizar o envio de mensagens personalizadas via WhatsApp Web, utilizando tecnicas de **RPA (Robotic Process Automation)**. O foco principal é a eficiência operacional e a economia de recursos do sistema através da lógica de aba única.
 
 ---
 
@@ -81,4 +81,4 @@ Antes de rodar o script, você precisa ter o **Python** instalado e as seguintes
 ---
 
 ## ✒️ Desenvolvedor
-* **Matheus Carvalho** - *Sistemas de Informação* - Mage Sistemas.
+* **Matheus Carvalho** - *Sistemas de Informação*
